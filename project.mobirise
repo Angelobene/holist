@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "holistic-sexuality",
+    "name": "holistic-sexuality.ml",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 19,
@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Holistic-Sexuality",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
