@@ -5466,11 +5466,15 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qNxnBrbvu0 {
-  background: linear-gradient(45deg, #fbac7f, #e5658a);
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 .cid-qNxnBrbvu0 .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
+}
+.cid-qNxnBrbvu0 .mbr-section-title,
+.cid-qNxnBrbvu0 .mbr-section-btn {
+  color: #635a51;
 }
 .cid-qNxlBPudyK {
   padding-top: 90px;
